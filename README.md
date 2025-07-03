@@ -96,3 +96,4 @@ plt.show()
 
 ## Output Screen
 
+![Output Screen](https://github.com/Akanksha5102/Task-7-sqlite-sales-report/blob/main/bar_chart.png)
